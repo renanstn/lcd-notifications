@@ -3,13 +3,8 @@
 #include <LiquidCrystal_I2C.h>
 #include <WebServer.h>
 
-const int SERIAL_SPEED = 115200;
 const int lcdColumns = 16;
 const int lcdRows = 2;
-
-IPAddress local_ip(192,168,1,1);
-IPAddress gateway(192,168,1,1);
-IPAddress subnet(255,255,255,0);
 
 LiquidCrystal_I2C lcd(0x27, lcdColumns, lcdRows);
 WebServer server(80);

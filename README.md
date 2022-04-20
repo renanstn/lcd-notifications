@@ -5,6 +5,6 @@
 ## Endpoints
 
 | Endpoint | Função |
-|:-:|:-:|
+|---|---|
 | `"/"` | Teste de health check |
 | `"/post"` | Recebe um `POST` contendo a notificação via arg (`?notification=foo`) |

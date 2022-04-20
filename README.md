@@ -17,3 +17,5 @@
 | VCC | VIN |
 | SDA | GPIO21 |
 | SCL | GPIO22 |
+
+![schematic](images/schematic.jpg)

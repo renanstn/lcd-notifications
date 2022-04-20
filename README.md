@@ -19,7 +19,3 @@
 | SCL | GPIO22 |
 
 ![schematic](images/schematic.jpg)
-
-## Referências
-
-- https://randomnerdtutorials.com/esp32-esp8266-i2c-lcd-arduino-ide/
